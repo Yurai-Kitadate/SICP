@@ -1,0 +1,1 @@
+(predicate)がtrueでも、else-clauseを評価するため、stack overflowとなる。
